@@ -1,23 +1,16 @@
-## Hi there 👋
+## Phase Four Design
 
-<!--
-**jeff-pfd/jeff-pfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product design, AI-enabled delivery, and the engineering to ship it.**
 
-Here are some ideas to get you started:
-- ⚡ Fun fact: I hate fun facts!
--->
+Phase Four Design is a UK-based consultancy run by Jeff, a Senior AI Product Manager and Design Engineer with 25+ years in product design, UX, information architecture, including 14 years at Sapient in London and New York.
 
+I help teams take products from ambiguous problem to shipped software:
 
-🔭 I'm a UX-UI designer looking to refresh my web development skills
+- **Product & service design**: research, strategy, IA and UX that hold up in front of real users
+- **AI product management**: shaping AI-powered features and finding where AI adds real value, not novelty
+- **Design engineering**: WordPress/PHP builds and front-end work, designed and coded by the same person
+- **AI-enabled workflows**: review-driven development with Claude Code, plus agent-orchestrated delivery that ships faster with tighter quality control
 
-🌱 I’m currently (re)learning  GitHub and Drupel
+Designer by training, developer by origin, AI-native by practice.
 
-👯 I’m looking to collaborate on anything Drupel CMS-based
-
-🤔 I’m looking for help with probably Drupel in the near future
-
-💬 Ask me about UX, UI, or product design
-
-📫 How to reach me: Leave comments here.
-
-😄 Pronouns: he/him
+🌐 [phasefourdesign.com](https://phasefourdesign.com)
